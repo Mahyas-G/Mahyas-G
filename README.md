@@ -1,7 +1,7 @@
 ## 🛠️ Tech Stack:
 
 <p >
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,php,laravel,windows,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,php,laravel,git,linux,windows&theme=dark" />
 </p>
 
 <p >
